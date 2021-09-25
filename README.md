@@ -6,7 +6,7 @@
       <BR>
         <BR>
           <BR>
-## <H3 align='center'> ℹ about me </H3>
+##<H3 align='center'> ℹ about me </H3>
 - 🌱 I’m currently learning everything
 - 📫 find me on: 
   - twitter : @Ameeeekk
