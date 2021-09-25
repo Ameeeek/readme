@@ -1,4 +1,5 @@
-## <p> selamat datang di welcome to my github profile 👋😁 </p>
+
+## <p align='center'> Selamat datang di welcome to my github profile 👋😁 </p>
 
 - 🌱 I’m currently learning everything
 - 📫 find me on: 
