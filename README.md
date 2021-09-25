@@ -1,5 +1,10 @@
 
-<p align='center'> Selamat datang di welcome to my github profile 👋😁 </p>
+<p align='center'> SELAMAT DATANG DI WELCOME TO MY GITHUB PROFILE 👋😁 </p>
+
+
+
+
+
 
 ## <p align='center'> ℹ about me </p>
 - 🌱 I’m currently learning everything
