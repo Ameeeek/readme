@@ -1,7 +1,7 @@
 
 <h1 align='center'> SELAMAT DATANG DI WELCOME TO MY GITHUB PROFILE 👋😁 </h1>
 
-<h3 align='center'> ℹ about me </h3>
+<h3> ℹ about me </h3>
   
 - 🌱 I’m currently learning everything
 - 📫 find me on: 
