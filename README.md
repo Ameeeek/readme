@@ -1,6 +1,7 @@
 
 ## <p align='center'> Selamat datang di welcome to my github profile 👋😁 </p>
-## about me 
+
+## ℹ about me 
 - 🌱 I’m currently learning everything
 - 📫 find me on: 
   - twitter : @Ameeeekk
