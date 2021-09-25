@@ -1,4 +1,4 @@
-## hello beatiful soul, welcome to my github profile 👋
+## <p> Hello beatiful soul, welcome to my github profile 👋 </p>
 
 
 
