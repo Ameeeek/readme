@@ -1,6 +1,6 @@
 
 ## <p align='center'> Selamat datang di welcome to my github profile 👋😁 </p>
-<p align='center'>
+<p align='center' style='display:flex; flex-direction:column'>
 - 🌱 I’m currently learning everything
 - 📫 find me on: 
   - twitter : @Ameeeekk
