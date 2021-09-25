@@ -7,7 +7,7 @@
     <img src = "https://github-readme-stats.vercel.app/api?username=Ameeeek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Ameeeek/github-readme-stats)">
 </p>
 <h1 align="center">
-my discord profle 👇
+my discord profile 👇 come and say hi 😁👋
 <p align="center">
     <img src = "https://discord.c99.nl/widget/theme-3/291715441867489291.png">
 </p>
