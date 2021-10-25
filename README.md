@@ -3,8 +3,9 @@
 ---
 <div src="display:flex; justify-content:center;">
 ![Twitter URL](https://img.shields.io/twitter/url?label=%40Ameeeekk&style=social&url=https%3A%2F%2Ftwitter.com%2FAmeeeekk)
-  
+
 </div>
+---
 - 🌱 I’m still learning and growing everyday 
 - 🏫 I'm a student at SMAN 1 PAREPARE
 - 📫 find me on: 
