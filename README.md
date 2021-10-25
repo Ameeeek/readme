@@ -34,7 +34,7 @@ i love to code, sleep, and playing games
 
 ---
 <p style="display:flex;">
-<img width="200" height="200" src = "https://github-readme-stats.vercel.app/api?username=Ameeeek&count_private=true&show_icons=true&theme=radical&)](https://github.com/Ameeeek/github-readme-stats)" >
+<img src = "https://github-readme-stats.vercel.app/api?username=Ameeeek&count_private=true&show_icons=true&theme=radical&)](https://github.com/Ameeeek/github-readme-stats)" >
 <img src = "https://discord.c99.nl/widget/theme-3/291715441867489291.png">
 
    
