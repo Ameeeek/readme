@@ -3,7 +3,7 @@
 
 
 
-![Twitter URL](https://img.shields.io/twitter/url?label=%40Ameeeekk&style=social&url=https%3A%2F%2Ftwitter.com%2FAmeeeekk)
+![Twitter URL align="center"](https://img.shields.io/twitter/url?label=%40Ameeeekk&style=social&url=https%3A%2F%2Ftwitter.com%2FAmeeeekk)
 
 
 i love to code, sleep, and playing games
