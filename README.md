@@ -2,9 +2,9 @@
 <h1 align='center'> SELAMAT DATANG DI WELCOME TO MY GITHUB PROFILE 👋😁 </h1>
 
 
-
+<p align="center">
 <a align="center" href="https://twitter.com/Ameeeekk"><img src="https://img.shields.io/twitter/url?label=%40Ameeeekk&style=social&url=https%3A%2F%2Ftwitter.com%2FAmeeeekk" alt="Twitter" /></a>&nbsp;
-
+</p>
 i love to code, sleep, and playing games
 
 
