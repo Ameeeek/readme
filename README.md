@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://twitter.com/Ameeeekk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
-i love to code, sleep, and playing games
+i love to code, sleep, and working out 
 
 
 <h1 align='center'> About me 🤡 </h1>
