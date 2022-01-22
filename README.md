@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a href="https://twitter.com/Ameeeekk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://twitter.com/orangAmek"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 i love to code, sleep, and working out 
 
