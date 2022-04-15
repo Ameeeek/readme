@@ -1,7 +1,7 @@
 ![Ameeeek's card name](https://cardivo.vercel.app/api?name=Ameeeek&description=Selamat%20datang%20di%20welcome%20%F0%9F%91%8B&twitter=@orangamek&image=https://avatars.githubusercontent.com/u/83535916?v=4&backgroundColor=%23ecf0f1)
 
 <div align="center">
-  <p> Hello there! my name is amek. I love to code, workout and sleep.</p>
+  <b> Hello there! my name is amek. I love to code, workout and sleep.</b>
   <br>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react%20js-%2361DAFB?&style=for-the-badge&logo=react&logoColor=%232E3440"/>
