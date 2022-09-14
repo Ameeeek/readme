@@ -1,4 +1,4 @@
-![Ameeeek's card name](https://cardivo.vercel.app/api?name=Ameeeek&description=Selamat%20datang%20di%20welcome%20%F0%9F%91%8B&twitter=@orangamek&image=https://avatars.githubusercontent.com/u/83535916?v=4&backgroundColor=%23ecf0f1)
+
 
 <div align="center">
   <b> Hello there! my name is Amek. I love to code, workout and sleep. <b>
