@@ -3,8 +3,8 @@
   <h1 align="center"> 
     Selamat Datang Di Welcome! 
   </h1>
-  <b>I'am Amek. I love to code, workout and sleep.<b>
-    <p>Still in my learning progress, so expect a bunch of shitcode in my repo ^^</p>
+  <b>I'm Amek. I love to code, workout and sleep.<b>
+    <p>Still learning progress, so expect a bunch of shitcode in my repo ^^</p>
   <b>Let's get in touch 👇<b>
   <br><br>
      <a href="https://twitter.com/orangAmek" style="text-decoration: none;">
